@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class GameInitializer : MonoBehaviour
+public class LaunchOptions : MonoBehaviour
 {
     private void Start()
     {
